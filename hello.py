@@ -1,1 +1,1 @@
-print('Hello, world');
+print('Hello, world! \n It is very beautiful day today!');
